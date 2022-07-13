@@ -12,7 +12,7 @@ public class Ejercicios1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Entrada de datos 
+        // Entrada de datos por consola
         /*Solicitar la información de un libro con el siguiente formato:
             -Titulo:
             -Autor:
