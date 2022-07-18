@@ -14,6 +14,9 @@ public class TiposVariables {
         //Variable String 
         String miVariableCadena = "Saludos";
         System.out.println(miVariableCadena);
+        //Variable boolean 
+        boolean valorVerdad = true; //false 
+        System.out.println("valorVerdad = " + valorVerdad);
 
         //Variable Var --Inferencia de tipos en Java 
         var miVariableEntera2 = 10;
